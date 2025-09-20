@@ -1,0 +1,5 @@
+{
+  "name": "Sports Betting Prediction Dashboard",
+  "description": "A web dashboard to display AI-generated sports betting parlays, track performance history, and visualize bankroll evolution. Built with React, Tailwind CSS, and Recharts.",
+  "requestFramePermissions": []
+}
